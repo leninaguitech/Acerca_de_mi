@@ -2,7 +2,6 @@
 
 First Project of TripleTen University
 
-Website that describes 4 things about the author's personal life, represented in his lifestyle.
 The website was created using the following HTML and CSS topics:
 
 - Tags and Attributes
